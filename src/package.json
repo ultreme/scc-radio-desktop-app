@@ -1,0 +1,13 @@
+{
+    "main": "http://www.salutcestcool.com/radio/",
+    "name": "Salut c'est cool RADIO",
+    "version": "0.1.0",
+    "nodejs": false,
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Salut c'est cool RADIO",
+        "icon": "icon.png",
+        "toolbar": false
+    }
+}

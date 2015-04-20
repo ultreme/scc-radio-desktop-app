@@ -1,0 +1,29 @@
+{
+  "name": "scc-radio-desktop-app",
+  "version": "0.1.0",
+  "description": "Salut c'est cool RADIO - Desktop App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultreme/scc-radio-desktop-app"
+  },
+  "keywords": [
+    "scc-radio",
+    "salut c'est cool",
+    "scc",
+    "desktop",
+    "application",
+    "desktop-app"
+  ],
+  "author": "Manfred Touron <m@42.am> (https://github.com/moul)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultreme/scc-radio-desktop-app/issues"
+  },
+  "homepage": "https://github.com/ultreme/scc-radio-desktop-app",
+  "dependencies": {
+    "node-webkit-builder": "^1.0.11"
+  }
+}
